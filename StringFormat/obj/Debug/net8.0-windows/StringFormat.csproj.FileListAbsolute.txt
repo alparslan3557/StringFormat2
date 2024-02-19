@@ -1,0 +1,16 @@
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\bin\Debug\net8.0-windows\StringFormat.exe
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\bin\Debug\net8.0-windows\StringFormat.deps.json
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\bin\Debug\net8.0-windows\StringFormat.runtimeconfig.json
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\bin\Debug\net8.0-windows\StringFormat.dll
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\bin\Debug\net8.0-windows\StringFormat.pdb
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.Form1.resources
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.AssemblyInfoInputs.cache
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.AssemblyInfo.cs
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.dll
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\refint\StringFormat.dll
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.pdb
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\StringFormat.genruntimeconfig.cache
+C:\Users\Erdem\source\repos\StringFormat\StringFormat\obj\Debug\net8.0-windows\ref\StringFormat.dll
